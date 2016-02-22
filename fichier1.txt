@@ -1,1 +1,5 @@
-Création du fichier1.txt puis premiere écrite depuis ma machine
+CrÃ©ation du fichier1.txt puis premiere Ã©crite depuis ma machine
+
+Cette modification est faite directement depuis github :
+pour mettre du style directement dans une feuille html, veuillez ajouter
+la balise <style type="text/css"> votre code CSS </style>
